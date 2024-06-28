@@ -17,8 +17,6 @@ A ideia é elaborar um site de E-Commerce, onde será realizado a venda de produ
 ![Spring](https://img.shields.io/badge/Spring-000?style=for-the-badge&logo=Spring)
 ![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=MySql)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=joaopguima&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
 ## Conecte-se com a Equipe de Desenvolvedores.
 
 João Pedro Guimarães da Silva de Jesus [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/joao-pedro-guimar%C3%A3es-77697b150/)
