@@ -29,7 +29,7 @@ public class SwaggerConfig {
 								+ "Felipe Porto - fe2017li@gmail.com<br>" 
 								+ "Isabelly Dornelas - isabelly.dornelas123@gmail.com<br>"
 								+ "Will Belcari - willbelcari13@gmail.com<br>"
-								+ "Gustavo Oliveira")
+								+ "Gustavo Oliveira - gustavo.oliver456@gmail.com")
 						.version("v0.0.1")
 						.license(new License()
 								.name("Generation Brasil")
