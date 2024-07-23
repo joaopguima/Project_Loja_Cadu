@@ -68,9 +68,5 @@ public class CategoriaController {
 		
 		categoriaRepository.deleteById(id);
 	}
-	
-	
-		
-	
 
 }
