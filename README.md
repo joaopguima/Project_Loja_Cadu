@@ -6,7 +6,7 @@ Projeto Integrador em Desenvolvimento, baseado nos conceitos da ODS-9 com o tema
 
 ## Objetivo do Projeto
 
-Elaborar um site de E-Commerce, com o intuito de convertermos em novas máquinas e criarmos centros de tecnologias espalhados por comunidades mais carentes, com a transformação em educação e levar o acesso de tecnologia a todos, além de inteligarmos com a colocação no mercado de trabalho tecnológico.
+Elaborar um site de E-Commerce, com o intuito de repassarmos percentuais dos produtos vendidos em construção de centros tecnológicos espalhados por comunidades mais carentes, transformando em educação e levando o acesso de tecnologia a todos, além de inteligarmos com a colocação no mercado de trabalho.
 
 
 ## Linguagens e Frameworks
